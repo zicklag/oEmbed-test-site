@@ -1,0 +1,7 @@
+{
+  "type": "rich",
+  "version": "1.0",
+  "html": "<html><body><h1>Hello World</h1><p>Hello from OEmbed</p></body></html>",
+  "width": 500,
+  "height": 500
+}
